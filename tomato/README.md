@@ -8,6 +8,7 @@ This project implements a machine learning pipeline to classify tomato leaf dise
 - **Fine-Tuning**: Tuned the higher layers of the InceptionV3 model to adapt it to the tomato disease classification task.
 - **Early Stopping**: Implemented an early stopping callback to avoid overfitting during training.
 - **TensorFlow.js Compatibility**: The model can be converted into a **TensorFlow.js** format for deployment in web applications.
+- **Model Drive**: https://drive.google.com/drive/folders/1pPZo7dVBAIiHx1viBGb8v0uDwjPysfAt?usp=sharing
 
 ## 📂 Dataset
 The dataset consists of tomato leaf images categorized into 10 classes, representing healthy and various disease states. The data is split into **training** and **validation** sets.
