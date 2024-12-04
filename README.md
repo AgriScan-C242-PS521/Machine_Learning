@@ -11,5 +11,3 @@ Welcome to the **AgriScan** repository! This project provides machine learning m
 AgriScan is an AI-powered app that helps users identify plant diseases by simply uploading a photo. This repository contains the core models that make the app smart and reliable.  
 
 Stay tuned for updates and improvements as we expand to support more crops and features!  
-
----  
